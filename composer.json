@@ -1,7 +1,7 @@
 {
     "name": "brijesh/test",
     "description": "Test",
-    "type": "project",
+    "type": "library",
     "license": "mit",
     "authors": [
         {
